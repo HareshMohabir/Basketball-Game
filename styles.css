@@ -1,0 +1,91 @@
+body {
+    color: #6600cc;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: yellow;
+    font-weight: 800;
+    padding: 0 20px;
+}
+    
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+    background-color: #6600cc;
+    color: #ffff4d;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button {
+    height: 40px;
+}
+
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    display:none;
+    height: 300px;
+}
+
+h2 {
+    display:none;
+}
+
+h1 {
+    display:none;
+    font-size: 50px;
+}
+.clue-container{
+    display:none;
+    font-size: 50px;
+    color: black;
+}
+
+.clue-container2{
+    display:none;
+}
+
+.clue-container3 {
+    display:none;
+}
+
+.clue-container4 {
+    display:none;
+}
+.image-1 {
+   justify-content: center;
+   
+}
+
+.clue-container5 {
+    display:none;
+}
+.image-3 {
+    justify-content: center;
+    height: 500px;
+    width: 500px;
+}
+.conclusion {
+    display:none;
+    justify-content: center;
+}
+.image-4 {
+    justify-content: center;
+    height: 500px;
+    width: 500px;
+}
